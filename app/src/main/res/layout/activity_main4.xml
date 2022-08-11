@@ -35,8 +35,8 @@
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="@+id/guideline5"
-        app:layout_constraintVertical_bias="0.27"
-        tools:layout_editor_absoluteX="28dp" />
+        app:layout_constraintVertical_bias="0.442"
+        tools:layout_editor_absoluteX="22dp" />
 
     <Button
         android:id="@+id/btnPrevWaterfall"

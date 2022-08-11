@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Photographers"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_camera_24"
+        android:title="@string/photographers"/>
+    <item
+        android:id="@+id/Pictures"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_photo_album_24"
+        android:title="@string/pictures"/>
+    <item
+        android:id="@+id/Contacts"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="@string/contacts"/>
+</menu>
